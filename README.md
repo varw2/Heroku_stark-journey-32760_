@@ -1,13 +1,8 @@
 # Heroku_stark-journey-32760_
 
-## Synopsis
+One Paragraph of project description goes here
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
+## Author
+- Email: dave@fontawesome.io
+- Twitter: http://twitter.com/davegandy
+- GitHub: https://github.com/davegandy
