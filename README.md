@@ -1,8 +1,3 @@
 # Heroku_stark-journey-32760_
 
-One Paragraph of project description goes here
-
-## Author
-- Email: dave@fontawesome.io
-- Twitter: http://twitter.com/davegandy
-- GitHub: https://github.com/davegandy
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et erat turpis. Ut consectetur iaculis dictum. Integer sollicitudin ullamcorper massa id vestibulum. Proin dignissim, neque at blandit elementum, metus neque accumsan massa, pretium ornare erat massa in ipsum. Morbi scelerisque tortor a aliquam lacinia. Curabitur auctor auctor vestibulum. Maecenas accumsan, erat vel consequat posuere, tortor purus molestie ante, ac lobortis erat massa et turpis. Nam ac metus ut urna fringilla ullamcorper. Donec a viverra magna. Etiam id neque id nisi molestie congue in ut elit. Aliquam tristique finibus vestibulum. Aenean nec cursus orci. Quisque porta lacinia dui. In sed commodo lectus. Integer dui turpis, viverra at aliquam sed, posuere a massa. Morbi volutpat faucibus arcu in interdum.
