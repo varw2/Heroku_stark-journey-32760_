@@ -1,51 +1,72 @@
-<?php  
-session_start();
-?>
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-<style>table { font-family: arial, sans-serif; border-collapse: collapse; width: 100%; } td, th { border: 1px solid #dddddd; text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #dddddd; }</style>
-<title>The Theme Database</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Bare - Start Bootstrap Template</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+    body {
+        padding-top: 70px;
+        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    }
+    </style>
+
 </head>
+
 <body>
-  <table>
-    <tr>
-      <th>Theme Name</th>
-      <th>Description</th>
-      <th>Author</th>
-      <th>Version</th>    
-   </tr>
-    <tr>
-      <td>Alfreds Futterkiste</td>
-      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-      <td>Germany</td>
-      <td>Italy</td>
-    </tr>
-    <tr>
-      <td>Centro comercial Moctezuma</td>
-      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-      <td>Mexico</td><td>Italy</td>
-    </tr>
-    <tr>
-      <td>Ernst Handel</td>
-      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-      <td>Austria</td><td>Italy</td>
-    </tr>
-    <tr>
-      <td>Island Trading</td>
-      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-      <td>UK</td><td>Italy</td>
-    </tr>
-    <tr>
-      <td>Laughing Bacchus Winecellars</td>
-      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-      <td>Canada</td><td>Italy</td>
-    </tr>
-    <tr>
-      <td>Magazzini Alimentari Riuniti</td>
-      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-      <td>Italy</td><td>Italy</td>
-    </tr>
-  </table>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Start Bootstrap</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#">About</a>
+                    </li>
+                    <li>
+                        <a href="#">Services</a>
+                    </li>
+                    <li>
+                        <a href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1>A Bootstrap Starter Template</h1>
+                <p class="lead">Complete with pre-defined file paths that you won't have to change!!</p>
+                <ul class="list-unstyled">
+                    <li>Bootstrap v3.3.7</li>
+                    <li>jQuery v1.11.1</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
